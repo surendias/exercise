@@ -1,0 +1,204 @@
+-- Synchronous Implementation -- 
+1: plain 
+2: clothes 
+3: Fizz 
+4: cost 
+5: Buzz 
+6: Fizz 
+7: It shouldn't break anything! 
+8: gate 
+9: Fizz 
+10: Buzz 
+11: small 
+12: Fizz 
+13: dug 
+14: cabin 
+15: FizzBuzz 
+16: sell 
+17: column 
+18: Fizz 
+19: turn 
+20: Buzz 
+21: Fizz 
+22: It shouldn't break anything! 
+23: glass 
+24: Fizz 
+25: Buzz 
+26: army 
+27: Fizz 
+28: jump 
+29: drop 
+30: FizzBuzz 
+31: charge 
+32: birthday 
+33: Fizz 
+34: influence 
+35: Buzz 
+36: Fizz 
+37: orange 
+38: excitement 
+39: Fizz 
+40: Buzz 
+41: thou 
+42: Fizz 
+43: It shouldn't break anything! 
+44: club 
+45: FizzBuzz 
+46: tell 
+47: again 
+48: Fizz 
+49: mathematics 
+50: Buzz 
+51: Fizz 
+52: It shouldn't break anything! 
+53: It shouldn't break anything! 
+54: Fizz 
+55: Buzz 
+56: union 
+57: Fizz 
+58: yesterday 
+59: throat 
+60: FizzBuzz 
+61: girl 
+62: road 
+63: Fizz 
+64: bread 
+65: Buzz 
+66: Fizz 
+67: quick 
+68: police 
+69: Fizz 
+70: Buzz 
+71: win 
+72: Fizz 
+73: occasionally 
+74: gently 
+75: FizzBuzz 
+76: correctly 
+77: tribe 
+78: Fizz 
+79: think 
+80: Buzz 
+81: Fizz 
+82: It shouldn't break anything! 
+83: skin 
+84: Fizz 
+85: Buzz 
+86: lot 
+87: Fizz 
+88: agree 
+89: carbon 
+90: FizzBuzz 
+91: hour 
+92: charge 
+93: Fizz 
+94: volume 
+95: Buzz 
+96: Fizz 
+97: answer 
+98: It shouldn't break anything! 
+99: Fizz 
+100: Buzz 
+
+
+-- Asynchronous Implementation -- 
+1: It shouldn't break anything! 
+2: original 
+3: Fizz 
+4: offer 
+5: Buzz 
+6: Fizz 
+7: perhaps 
+8: It shouldn't break anything! 
+9: Fizz 
+10: Buzz 
+11: It shouldn't break anything! 
+12: Fizz 
+13: danger 
+14: helpful 
+15: FizzBuzz 
+16: center 
+17: It shouldn't break anything! 
+18: Fizz 
+19: aboard 
+20: Buzz 
+21: Fizz 
+22: grandfather 
+23: reach 
+24: Fizz 
+25: Buzz 
+26: fifteen 
+27: Fizz 
+28: It shouldn't break anything! 
+29: freedom 
+30: FizzBuzz 
+31: there 
+32: contrast 
+33: Fizz 
+34: tired 
+35: Buzz 
+36: Fizz 
+37: queen 
+38: space 
+39: Fizz 
+40: Buzz 
+41: even 
+42: Fizz 
+43: race 
+44: accident 
+45: FizzBuzz 
+46: memory 
+47: lesson 
+48: Fizz 
+49: why 
+50: Buzz 
+51: Fizz 
+52: disease 
+53: heard 
+54: Fizz 
+55: Buzz 
+56: like 
+57: Fizz 
+58: home 
+59: It shouldn't break anything! 
+60: FizzBuzz 
+61: gold 
+62: perhaps 
+63: Fizz 
+64: express 
+65: Buzz 
+66: Fizz 
+67: It shouldn't break anything! 
+68: wide 
+69: Fizz 
+70: Buzz 
+71: importance 
+72: Fizz 
+73: entire 
+74: increase 
+75: FizzBuzz 
+76: It shouldn't break anything! 
+77: It shouldn't break anything! 
+78: Fizz 
+79: thy 
+80: Buzz 
+81: Fizz 
+82: thee 
+83: neighborhood 
+84: Fizz 
+85: Buzz 
+86: pot 
+87: Fizz 
+88: frozen 
+89: table 
+90: FizzBuzz 
+91: It shouldn't break anything! 
+92: It shouldn't break anything! 
+93: Fizz 
+94: introduced 
+95: Buzz 
+96: Fizz 
+97: spin 
+98: indicate 
+99: Fizz 
+100: Buzz 
